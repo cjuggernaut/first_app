@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2987df8-1ca9-4f08-9288-578df5490c8a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-    </list>
+    <list default="true" id="b2987df8-1ca9-4f08-9288-578df5490c8a" name="Default" comment="" />
     <ignored path="first_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile.lock" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="0" selection-start="2738" selection-end="2738" vertical-scroll-proportion="0.0" vertical-offset="1677" max-vertical-offset="2125">
+            <state line="104" column="21" selection-start="2543" selection-end="2543" vertical-scroll-proportion="0.3169643" vertical-offset="1626" max-vertical-offset="2074">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="178" selection-end="178" vertical-scroll-proportion="0.23448277" vertical-offset="0" max-vertical-offset="884">
+            <state line="11" column="50" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
               <folding />
             </state>
           </provider>
@@ -62,8 +60,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
       </list>
     </option>
   </component>
@@ -302,7 +300,11 @@
       <created>1392015129250</created>
       <updated>1392015129250</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="test&#10;">
+      <created>1392015201973</created>
+      <updated>1392015201973</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -385,16 +387,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="0" selection-start="2738" selection-end="2738" vertical-scroll-proportion="0.0" vertical-offset="1677" max-vertical-offset="2125">
+        <state line="11" column="50" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="178" selection-end="178" vertical-scroll-proportion="0.23448277" vertical-offset="0" max-vertical-offset="884">
+        <state line="104" column="21" selection-start="2543" selection-end="2543" vertical-scroll-proportion="0.3169643" vertical-offset="1626" max-vertical-offset="2074">
           <folding />
         </state>
       </provider>
